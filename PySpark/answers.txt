@@ -1,0 +1,5 @@
+Task 4. We got the follwing output 
+Task 5. See the wc_out.txt folder
+Task 6. We got the following output [('I', 9), ('Hadoop', 6), ('Spark', 5)]
+Task 7. We got the following output Pi is roughly 3.139876
+Task 8. We got an output of 3.

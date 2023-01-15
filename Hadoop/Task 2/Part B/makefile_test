@@ -1,0 +1,3 @@
+run:
+	cat ${file01} ${file02} | python3 map.py | sort -k1,1 | python3 reduce.py > output
+	cat output
