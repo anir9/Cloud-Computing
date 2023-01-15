@@ -1,0 +1,4 @@
+Map Reduce	Number of Edges	Normal
+4.81704E+11	10000000	3.04E+10
+3.96022E+11	1000000		2.09E+9
+
